@@ -5,10 +5,10 @@
 - 📫 How to reach me: Good vives ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=dracula&line_height=32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=dracula&langs_count=8&line_height=32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=dracula&langs_count=8" />
 </a>
 
 <!---
