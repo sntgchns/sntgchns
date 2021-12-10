@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on Server development, Cloud Services, IaaS, PaaS ...
 - 📫 How to reach me: Good vives ...
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=dracula" style="max-width: 100%;" />
+<a href="https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=dracula&langs_count=8" style="max-width: 100%;" />
+<a href="https://github.com/anuraghazra/convoychat" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=dracula&langs_count=8" />
 </a>
 
 <!---
