@@ -124,11 +124,11 @@
 </div>
 <hr>
 <div><h2>Crypto</h2>
-<img height="30" src="https://img.shields.io/badge/-Blockchain.com-0d1117?logo=blockchaindotcom&logoColor=121D33&style=flat-square" />
-<img height="30" src="https://img.shields.io/badge/-Hyperledger-0d1117?logo=hyperledger&logoColor=2F3134&style=flat-square" />
-<img height="30" src="https://img.shields.io/badge/-Bitcoin-0d1117?logo=bitcoin&logoColor=F7931A&style=flat-square" />
-<img height="30" src="https://img.shields.io/badge/-Ethereum-0d1117?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
-<img height="30" src="https://img.shields.io/badge/-Tether-0d1117?logo=tether&logoColor=50AF95&style=flat-square" />
+<img src="https://img.shields.io/badge/-Blockchain.com-0d1117?logo=blockchaindotcom&logoColor=121D33&style=flat-square" />
+<img src="https://img.shields.io/badge/-Hyperledger-0d1117?logo=hyperledger&logoColor=2F3134&style=flat-square" />
+<img src="https://img.shields.io/badge/-Bitcoin-0d1117?logo=bitcoin&logoColor=F7931A&style=flat-square" />
+<img src="https://img.shields.io/badge/-Ethereum-0d1117?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
+<img src="https://img.shields.io/badge/-Tether-0d1117?logo=tether&logoColor=50AF95&style=flat-square" />
 </div>
 <h2>Social</h2>
 <div>
