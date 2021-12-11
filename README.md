@@ -86,6 +86,7 @@
 <img src="https://img.shields.io/badge/-Windows%20Terminal-0d1117?logo=windowsterminal&logoColor=4D4D4D&style=flat-square" />
 <img src="https://img.shields.io/badge/-HyperV-0d1117?logo=microsoft&logoColor=5E5E5E&style=flat-square" />
 <img src="https://img.shields.io/badge/-CodePen-0d1117?logo=codepen&logoColor=000000&style=flat-square" />
+<img src="https://img.shields.io/badge/-GitHub-0d1117?logo=github&logoColor=181717&style=flat-square" />
 <img src="https://img.shields.io/badge/-Font%20Awesome-0d1117?logo=fontawesome&logoColor=339AF0&style=flat-square" />
 <img src="https://img.shields.io/badge/-Docker-0d1117?logo=docker&logoColor=2496ED&style=flat-square" />
 <img src="https://img.shields.io/badge/-Apache-0d1117?logo=apache&logoColor=D22128&style=flat-square" />
@@ -94,7 +95,6 @@
 <img src="https://img.shields.io/badge/-OpenSSL-0d1117?logo=openssl&logoColor=721412&style=flat-square" />
 <img src="https://img.shields.io/badge/-MySQL-0d1117?logo=mysql&logoColor=4479A1&style=flat-square" />
 <img src="https://img.shields.io/badge/-phpMyAdmin-0d1117?logo=phpmyadmin&logoColor=6C78AF&style=flat-square" />
-<img src="https://img.shields.io/badge/-GitHub-0d1117?logo=github&logoColor=181717&style=flat-square" />
 <img src="https://img.shields.io/badge/-GoDaddy-0d1117?logo=godaddy&logoColor=1BDBDB&style=flat-square" />
 <img src="https://img.shields.io/badge/-Photoshop-0d1117?logo=adobephotoshop&logoColor=31A8FF&style=flat-square" />
 <img src="https://img.shields.io/badge/-Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
@@ -106,7 +106,7 @@
 <img src="https://img.shields.io/badge/-Windows-0d1117?logo=windows&logoColor=0078D6&style=flat-square" />
 <img src="https://img.shields.io/badge/-Pihole-0d1117?logo=pihole&logoColor=96060C&style=flat-square" />
 <img src="https://img.shields.io/badge/-Ubuntu-0d1117?logo=ubuntu&logoColor=E95420&style=flat-square" />
-<img src="https://img.shields.io/badge/-Debian-0d1117?logo=debian=A81D33&style=flat-square" />
+<img src="https://img.shields.io/badge/-Debian-0d1117?logo=debian&logoColor=A81D33&style=flat-square" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-0d1117?logo=kalilinux&logoColor=557C94&style=flat-square" />
 <img src="https://img.shields.io/badge/-Linux-0d1117?logo=linux&logoColor=FCC624&style=flat-square" />
 <img src="https://img.shields.io/badge/-Android-0d1117?logo=android&logoColor=3DDC84&style=flat-square" />
