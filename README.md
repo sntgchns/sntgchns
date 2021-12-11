@@ -69,7 +69,7 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
 </div>
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat-square" />
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
 https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat-square
 https://img.shields.io/badge/-Python-61DAFB?logo=python&style=flat-square
 https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&style=flat-square
