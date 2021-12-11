@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Administration, Programming, Virtualization ...
 - 💞️ I’m looking to collaborate on Server development, Cloud Services, IaaS, PaaS ...
 - 📫 How to reach me: Good vives ...
-<hr style="border: 1px solid #635994; border-radius: 5px;">
+<hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars&line_height=27" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8" style="height:179px;" />
@@ -68,7 +68,7 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
 </div>-->
-<hr style="border: 1px solid #635994; border-radius: 5px;">
+<hr>
 <div><h2>Frontend | Backend | Development tools</h2>
 <img height="24" src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-CSS3-0d1117?logo=css3&logoColor=1572B6&style=flat-square" />
@@ -107,7 +107,7 @@
 <img height="24" src="https://img.shields.io/badge/-Wireshark-0d1117?logo=wireshark&logoColor=1679A7&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stackoverflow&logoColor=F58025&style=flat-square" />
 </div>
-<hr style="border: 1px solid #635994; border-radius: 5px;">
+<hr>
 <div><h2>Operating Systems & Miscellaneous</h2>
 <img height="24" src="https://img.shields.io/badge/-Windows-0d1117?logo=windows&logoColor=0078D6&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Pihole-0d1117?logo=pihole&logoColor=96060C&style=flat-square" />
@@ -122,7 +122,7 @@
 <img height="24" src="https://img.shields.io/badge/-Google%20Ads-0d1117?logo=googleads&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20My%20Business-0d1117?logo=googlemybusiness&logoColor=4285F4&style=flat-square" />
 </div>
-<hr style="border: 1px solid #635994; border-radius: 5px;">
+<hr>
 <div><h2>Crypto</h2>
 <img height="24" src="https://img.shields.io/badge/-Blockchain.com-0d1117?logo=blockchaindotcom&logoColor=121D33&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Hyperledger-0d1117?logo=hyperledger&logoColor=2F3134&style=flat-square" />
@@ -130,7 +130,7 @@
 <img height="24" src="https://img.shields.io/badge/-Ethereum-0d1117?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Tether-0d1117?logo=tether&logoColor=50AF95&style=flat-square" />
 </div>
-<hr style="border: 1px solid #635994; border-radius: 5px;">
+<hr>
 <h2>Social</h2>
 <div>
 <a href="https://www.instagram.com/santiagochinas/"><img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" /></a>
