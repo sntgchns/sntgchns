@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Administration, Programming, Virtualization ...
 - 💞️ I’m looking to collaborate on Server development, Cloud Services, IaaS, PaaS ...
 - 📫 How to reach me: Good vives ...
-
+<html>
+  <body>
 <a href="https://sntgchns.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&line_height=27" />
 </a>
@@ -30,7 +31,8 @@
             </ul>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
+</body>
+</html>
 <!---
 sntgchns/sntgchns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
