@@ -29,6 +29,20 @@
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adidas.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/notepadplusplus.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/photoshop.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
 
 <!---
 sntgchns/sntgchns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
