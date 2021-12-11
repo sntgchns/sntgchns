@@ -74,15 +74,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&logoColor=F7DF1E&style=flat-square" />
 <img src="https://img.shields.io/badge/-CSS3-333333?logo=css3&logoColor=1572B6&style=flat-square" />
 <img src="https://img.shields.io/badge/-HTML5-333333?logo=html5&logoColor=E34F26&style=flat-square" />
-<img src="https://img.shields.io/badge/-VSCode-333333?logo=vscode&logoColor=E34F26&style=flat-square" />
-https://img.shields.io/badge/--61DAFB?logo=vscode&logoColor=white&style=flat-square
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
+<img src="https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode&logoColor=E34F26&style=flat-square" />
 
 <!---
 sntgchns/sntgchns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
