@@ -84,8 +84,7 @@
 <img src="https://img.shields.io/badge/-PHP-333333?logo=php&logoColor=777BB4&style=flat-square" />
 <img src="https://img.shields.io/badge/-C++-333333?logo=cplusplus&logoColor=00599C&style=flat-square" />
 <img src="https://img.shields.io/badge/-CodePen-333333?logo=codepen&logoColor=000000&style=flat-square" />
-<img src="https://img.shields.io/badge/-Font%20%Awesome-333333?logo=fontawesome&logoColor=339AF0&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
+<img src="https://img.shields.io/badge/-Font%20Awesome-333333?logo=fontawesome&logoColor=339AF0&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
