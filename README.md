@@ -130,6 +130,7 @@
 <img height="24" src="https://img.shields.io/badge/-Ethereum-0d1117?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Tether-0d1117?logo=tether&logoColor=50AF95&style=flat-square" />
 </div>
+<hr>
 <h2>Social</h2>
 <div>
 <a href="https://www.instagram.com/santiagochinas/"><img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" /></a>
