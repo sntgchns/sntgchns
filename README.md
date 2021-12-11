@@ -130,6 +130,7 @@
 <img src="https://img.shields.io/badge/-WhatsApp-0d1117?logo=whatsapp&logoColor=25D366&style=flat-square" />
 <img src="https://img.shields.io/badge/-LinkedIn-0d1117?logo=linkedin&logoColor=0A66C2&style=flat-square" />
 <img src="https://img.shields.io/badge/-Telegram-0d1117?logo=telegram&logoColor=26A5E4&style=flat-square" />
+<img src="https://img.shields.io/badge/-Discord-0d1117?logo=discord&logoColor=5865F2&style=flat-square" />
 <img src="https://img.shields.io/badge/-Twitter-0d1117?logo=twitter&logoColor=1DA1F2&style=flat-square" />
 <img src="https://img.shields.io/badge/-YouTube-0d1117?logo=youtube&logoColor=FF0000&style=flat-square" />
 <img src="https://img.shields.io/badge/-YouTube%20Music-0d1117?logo=youtubemusic&logoColor=FF0000&style=flat-square" />
