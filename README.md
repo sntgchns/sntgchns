@@ -125,15 +125,15 @@
 </div>
 <h2>Social</h2>
 <div>
-<a href="https://www.instagram.com/santiagochinas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" /></a>
-<img src="https://img.shields.io/badge/-Facebook-0d1117?logo=facebook&logoColor=1877F2&style=flat-square" />
-<img src="https://img.shields.io/badge/-WhatsApp-0d1117?logo=whatsapp&logoColor=25D366&style=flat-square" />
-<img src="https://img.shields.io/badge/-LinkedIn-0d1117?logo=linkedin&logoColor=0A66C2&style=flat-square" />
-<img src="https://img.shields.io/badge/-Telegram-0d1117?logo=telegram&logoColor=26A5E4&style=flat-square" />
-<img src="https://img.shields.io/badge/-Discord-0d1117?logo=discord&logoColor=5865F2&style=flat-square" />
-<img src="https://img.shields.io/badge/-Twitter-0d1117?logo=twitter&logoColor=1DA1F2&style=flat-square" />
-<img src="https://img.shields.io/badge/-YouTube-0d1117?logo=youtube&logoColor=FF0000&style=flat-square" />
-<img src="https://img.shields.io/badge/-YouTube%20Music-0d1117?logo=youtubemusic&logoColor=FF0000&style=flat-square" />
+<a href="https://www.instagram.com/santiagochinas/"><img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" /></a>
+<a href="https://www.facebook.com/sntgchns"><img src="https://img.shields.io/badge/-Facebook-0d1117?logo=facebook&logoColor=1877F2&style=flat-square" /></a>
+<a href="https://wa.me/5492944960009"><img src="https://img.shields.io/badge/-WhatsApp-0d1117?logo=whatsapp&logoColor=25D366&style=flat-square" /></a>
+<a href="https://linkedin.com/in/sntgchns"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?logo=linkedin&logoColor=0A66C2&style=flat-square" /></a>
+<a href=""><img src="https://img.shields.io/badge/-Telegram-0d1117?logo=telegram&logoColor=26A5E4&style=flat-square" /></a>
+<a href=""><img src="https://img.shields.io/badge/-Discord-0d1117?logo=discord&logoColor=5865F2&style=flat-square" /></a>
+<a href="https://twitter.com/santiagochinas"><img src="https://img.shields.io/badge/-Twitter-0d1117?logo=twitter&logoColor=1DA1F2&style=flat-square" /></a>
+<a href=""><img src="https://img.shields.io/badge/-YouTube-0d1117?logo=youtube&logoColor=FF0000&style=flat-square" /></a>
+<a href="https://music.youtube.com/watch?v=U6eFQDaJmnk&list=RDAMVMU6eFQDaJmnk"><img src="https://img.shields.io/badge/-YouTube%20Music-0d1117?logo=youtubemusic&logoColor=FF0000&style=flat-square" /></a>
 </div>
 
 <!---
