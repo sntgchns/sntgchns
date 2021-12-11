@@ -127,7 +127,7 @@
 <img src="https://img.shields.io/badge/-Twitter-0d1117?logo=twitter&logoColor=1DA1F2&style=flat-square" />
 <img src="https://img.shields.io/badge/-YouTube-0d1117?logo=youtube&logoColor=FF0000&style=flat-square" />
 <img src="https://img.shields.io/badge/-YouTube%20Music-0d1117?logo=youtubemusic&logoColor=FF0000&style=flat-square" />
-<img src="https://img.shields.io/badge/-HyperV-0d1117?logo=microsoft&logoColor=FF0000&style=flat-square" />
+<img src="https://img.shields.io/badge/-HyperV-0d1117?logo=microsoft&logoColor=5E5E5E&style=flat-square" />
 </div>
 
 <!---
