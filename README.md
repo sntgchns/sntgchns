@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8" />
 </a>
 
-<ul dir="auto">
+<ul dir="auto" style:"text-decoration:none;">
 <li>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-333333?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"><img src="https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width: 100%;"></a>
