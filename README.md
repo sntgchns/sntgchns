@@ -104,7 +104,7 @@
 <img src="https://img.shields.io/badge/-Wireshark-333333?logo=wireshark&logoColor=1679A7&style=flat-square" />
 <img src="https://img.shields.io/badge/-Stack%20Overflow-333333?logo=stackoverflow&logoColor=F58025&style=flat-square" />
 <img src="https://img.shields.io/badge/-Windows-333333?logo=windows&logoColor=0078D6&style=flat-square" />
-<img src="https://img.shields.io/badge/-Pi-hole-333333?logo=piholeC&logoColor=96060C&style=flat-square" />
+<img src="https://img.shields.io/badge/-Pi-hole-333333?logo=pihole&logoColor=96060C&style=flat-square" />
 <img src="https://img.shields.io/badge/-Ubuntu-333333?logo=ubuntu&logoColor=E95420&style=flat-square" />
 <img src="https://img.shields.io/badge/-Debian-333333?logo=debian=A81D33&style=flat-square" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-333333?logo=kalilinux&logoColor=557C94&style=flat-square" />
