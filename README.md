@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
 <img src="https://img.shields.io/badge/-Bootstrap-333333?logo=bootstrap&logoColor=7952B3&style=flat-square" />
 <img src="https://img.shields.io/badge/-jQuery-333333?logo=jquery&logoColor=0769AD&style=flat-square" />
-<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
+<img src="https://img.shields.io/badge/-Flask-333333?logo=flask&logoColor=000000&style=flat-square" />
 <img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
 <img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
 <img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
