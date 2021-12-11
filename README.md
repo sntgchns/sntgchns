@@ -87,11 +87,11 @@
 <img src="https://img.shields.io/badge/-Font%20Awesome-333333?logo=fontawesome&logoColor=339AF0&style=flat-square" />
 <img src="https://img.shields.io/badge/-Docker-333333?logo=docker&logoColor=2496ED&style=flat-square" />
 <img src="https://img.shields.io/badge/-Apache-333333?logo=apache&logoColor=D22128&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
+<img src="https://img.shields.io/badge/-OpenSSL-333333?logo=openssl&logoColor=721412&style=flat-square" />
+<img src="https://img.shields.io/badge/-MySQL-333333?logo=mysql&logoColor=4479A1&style=flat-square" />
+<img src="https://img.shields.io/badge/-phpMyAdmin-333333?logo=phpmyadmin&logoColor=6C78AF&style=flat-square" />
+<img src="https://img.shields.io/badge/-GitHub-333333?logo=github&logoColor=181717&style=flat-square" />
+<img src="https://img.shields.io/badge/-GoDaddy-333333?logo=godaddy&logoColor=1BDBDB&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
