@@ -113,7 +113,7 @@
 <img src="https://img.shields.io/badge/-Microsoft%20Office-0d1117?logo=microsoftoffice&logoColor=D83B01&style=flat-square" />
 <img src="https://img.shields.io/badge/-Microsoft%20Edge-0d1117?logo=microsoftedge&logoColor=0078D7&style=flat-square" />
 <img src="https://img.shields.io/badge/-Google-0d1117?logo=google&logoColor=4285F4&style=flat-square" />
-<img src="https://img.shields.io/badge/-Google%20Analytics-0d1117?logo=googleanalytics&logoColor=E37400style=flat-square" />
+<img src="https://img.shields.io/badge/-Google%20Analytics-0d1117?logo=googleanalytics&logoColor=E37400&style=flat-square" />
 <img src="https://img.shields.io/badge/-Google%20Ads-0d1117?logo=googleadsColor=4285F4&style=flat-square" />
 <img src="https://img.shields.io/badge/-SketchUp-0d1117?logo=sketchup&logoColor=005F9E&style=flat-square" />
 <img src="https://img.shields.io/badge/-Blockchain.com-0d1117?logo=blockchaindotcom&logoColor=121D33&style=flat-square" />
