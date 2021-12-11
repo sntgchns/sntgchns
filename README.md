@@ -125,7 +125,7 @@
 </div>
 <h2>Social</h2>
 <div>
-<img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" />
+<a href="https://instagram.com/santiagochinas"><img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" /></a>
 <img src="https://img.shields.io/badge/-Facebook-0d1117?logo=facebook&logoColor=1877F2&style=flat-square" />
 <img src="https://img.shields.io/badge/-WhatsApp-0d1117?logo=whatsapp&logoColor=25D366&style=flat-square" />
 <img src="https://img.shields.io/badge/-LinkedIn-0d1117?logo=linkedin&logoColor=0A66C2&style=flat-square" />
