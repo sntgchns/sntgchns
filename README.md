@@ -84,11 +84,13 @@
 <img src="https://img.shields.io/badge/-Notepad++-0d1117?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 <img src="https://img.shields.io/badge/-VSCode-0d1117?logo=visualstudiocode&logoColor=007ACC&style=flat-square" />
 <img src="https://img.shields.io/badge/-Windows%20Terminal-0d1117?logo=windowsterminal&logoColor=4D4D4D&style=flat-square" />
+<img src="https://img.shields.io/badge/-HyperV-0d1117?logo=microsoft&logoColor=5E5E5E&style=flat-square" />
 <img src="https://img.shields.io/badge/-CodePen-0d1117?logo=codepen&logoColor=000000&style=flat-square" />
 <img src="https://img.shields.io/badge/-Font%20Awesome-0d1117?logo=fontawesome&logoColor=339AF0&style=flat-square" />
 <img src="https://img.shields.io/badge/-Docker-0d1117?logo=docker&logoColor=2496ED&style=flat-square" />
 <img src="https://img.shields.io/badge/-Apache-0d1117?logo=apache&logoColor=D22128&style=flat-square" />
 <img src="https://img.shields.io/badge/-NGINX-0d1117?logo=nginx&logoColor=009639&style=flat-square" />
+<img src="https://img.shields.io/badge/-Let’s%20Encrypt-0d1117?logo=letsencrypt&logoColor=003A70&style=flat-square" />
 <img src="https://img.shields.io/badge/-OpenSSL-0d1117?logo=openssl&logoColor=721412&style=flat-square" />
 <img src="https://img.shields.io/badge/-MySQL-0d1117?logo=mysql&logoColor=4479A1&style=flat-square" />
 <img src="https://img.shields.io/badge/-phpMyAdmin-0d1117?logo=phpmyadmin&logoColor=6C78AF&style=flat-square" />
@@ -123,11 +125,11 @@
 <img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" />
 <img src="https://img.shields.io/badge/-Facebook-0d1117?logo=facebook&logoColor=1877F2&style=flat-square" />
 <img src="https://img.shields.io/badge/-WhatsApp-0d1117?logo=whatsapp&logoColor=25D366&style=flat-square" />
+<img src="https://img.shields.io/badge/-LinkedIn-0d1117?logo=linkedin&logoColor=0A66C2&style=flat-square" />
 <img src="https://img.shields.io/badge/-Telegram-0d1117?logo=telegram&logoColor=26A5E4&style=flat-square" />
 <img src="https://img.shields.io/badge/-Twitter-0d1117?logo=twitter&logoColor=1DA1F2&style=flat-square" />
 <img src="https://img.shields.io/badge/-YouTube-0d1117?logo=youtube&logoColor=FF0000&style=flat-square" />
 <img src="https://img.shields.io/badge/-YouTube%20Music-0d1117?logo=youtubemusic&logoColor=FF0000&style=flat-square" />
-<img src="https://img.shields.io/badge/-HyperV-0d1117?logo=microsoft&logoColor=5E5E5E&style=flat-square" />
 </div>
 
 <!---
