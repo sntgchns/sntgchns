@@ -6,10 +6,10 @@
 
 <br></br>
 <div style="display: flex; justify-content: center; align-items:center;">
-  <a href="https://sntgchns.github.io/">
+  <a style="text-decoration: none;" href="https://sntgchns.github.io/">
     <img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars" />
   </a>
-  <a href="https://sntgchns.github.io/">
+  <a style="text-decoration: none;" href="https://sntgchns.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8&layout=compact" />
   </a>
 </div>
