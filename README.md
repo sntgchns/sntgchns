@@ -71,23 +71,26 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
 </div>
 <div>
-<img src="https://img.shields.io/badge/-ReactJS-333333?logo=react&logoColor=61DAFB&style=flat-square" />
-<img src="https://img.shields.io/badge/-Python-333333?logo=python&logoColor=3776AB&style=flat-square" />
-<img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&logoColor=F7DF1E&style=flat-square" />
-<img src="https://img.shields.io/badge/-CSS3-333333?logo=css3&logoColor=1572B6&style=flat-square" />
 <img src="https://img.shields.io/badge/-HTML5-333333?logo=html5&logoColor=E34F26&style=flat-square" />
-<img src="https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode&logoColor=007ACC&style=flat-square" />
-<img src="https://img.shields.io/badge/-NGINX-333333?logo=nginx&logoColor=009639&style=flat-square" />
+<img src="https://img.shields.io/badge/-CSS3-333333?logo=css3&logoColor=1572B6&style=flat-square" />
+<img src="https://img.shields.io/badge/-JavaScript-333333?logo=javascript&logoColor=F7DF1E&style=flat-square" />
 <img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
 <img src="https://img.shields.io/badge/-Bootstrap-333333?logo=bootstrap&logoColor=7952B3&style=flat-square" />
 <img src="https://img.shields.io/badge/-jQuery-333333?logo=jquery&logoColor=0769AD&style=flat-square" />
+<img src="https://img.shields.io/badge/-Vue.js-333333?logo=vuedotjs&logoColor=4FC08D&style=flat-square" />
+<img src="https://img.shields.io/badge/-ReactJS-333333?logo=react&logoColor=61DAFB&style=flat-square" />
+<img src="https://img.shields.io/badge/-Python-333333?logo=python&logoColor=3776AB&style=flat-square" />
 <img src="https://img.shields.io/badge/-Flask-333333?logo=flask&logoColor=000000&style=flat-square" />
 <img src="https://img.shields.io/badge/-PHP-333333?logo=php&logoColor=777BB4&style=flat-square" />
 <img src="https://img.shields.io/badge/-C++-333333?logo=cplusplus&logoColor=00599C&style=flat-square" />
+<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
+<img src="https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode&logoColor=007ACC&style=flat-square" />
+<img src="https://img.shields.io/badge/-Windows%20Terminal-333333?logo=windowsterminal&logoColor=4D4D4D&style=flat-square" />
 <img src="https://img.shields.io/badge/-CodePen-333333?logo=codepen&logoColor=000000&style=flat-square" />
 <img src="https://img.shields.io/badge/-Font%20Awesome-333333?logo=fontawesome&logoColor=339AF0&style=flat-square" />
 <img src="https://img.shields.io/badge/-Docker-333333?logo=docker&logoColor=2496ED&style=flat-square" />
 <img src="https://img.shields.io/badge/-Apache-333333?logo=apache&logoColor=D22128&style=flat-square" />
+<img src="https://img.shields.io/badge/-NGINX-333333?logo=nginx&logoColor=009639&style=flat-square" />
 <img src="https://img.shields.io/badge/-OpenSSL-333333?logo=openssl&logoColor=721412&style=flat-square" />
 <img src="https://img.shields.io/badge/-MySQL-333333?logo=mysql&logoColor=4479A1&style=flat-square" />
 <img src="https://img.shields.io/badge/-phpMyAdmin-333333?logo=phpmyadmin&logoColor=6C78AF&style=flat-square" />
@@ -98,17 +101,34 @@
 <img src="https://img.shields.io/badge/-MongoDB-333333?logo=mongodb&logoColor=47A248A&style=flat-square" />
 <img src="https://img.shields.io/badge/-MariaDB-333333?logo=mariadb&logoColor=003545&style=flat-square" />
 <img src="https://img.shields.io/badge/-Serverless-333333?logo=serverless&logoColor=FD5750&style=flat-square" />
-<img src="https://img.shields.io/badge/-Vue.js-333333?logo=vuedotjs&logoColor=4FC08D&style=flat-square" />
 <img src="https://img.shields.io/badge/-Wireshark-333333?logo=wireshark&logoColor=1679A7&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
+<img src="https://img.shields.io/badge/-Stack%20Overflow-333333?logo=stackoverflow&logoColor=F58025&style=flat-square" />
+<img src="https://img.shields.io/badge/-Windows-333333?logo=windows&logoColor=0078D6&style=flat-square" />
+<img src="https://img.shields.io/badge/-Pi-hole-333333?logo=piholeC&logoColor=96060C&style=flat-square" />
+<img src="https://img.shields.io/badge/-Ubuntu-333333?logo=ubuntu&logoColor=E95420&style=flat-square" />
+<img src="https://img.shields.io/badge/-Debian-333333?logo=debian=A81D33&style=flat-square" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-333333?logo=kalilinux&logoColor=557C94&style=flat-square" />
+<img src="https://img.shields.io/badge/-Linux-333333?logo=linux&logoColor=FCC624&style=flat-square" />
+<img src="https://img.shields.io/badge/-Android-333333?logo=android&logoColor=3DDC84&style=flat-square" />
+<img src="https://img.shields.io/badge/-Microsoft%20Office-333333?logo=microsoftoffice&logoColor=D83B01&style=flat-square" />
+<img src="https://img.shields.io/badge/-Microsoft%20Edge-333333?logo=microsoftedge&logoColor=0078D7&style=flat-square" />
+<img src="https://img.shields.io/badge/-Google-333333?logo=google&logoColor=4285F4&style=flat-square" />
+<img src="https://img.shields.io/badge/-Google%20Analytics-333333?logo=googleanalytics&logoColor=E37400style=flat-square" />
+<img src="https://img.shields.io/badge/-Google%20Ads-333333?logo=googleadsColor=4285F4&style=flat-square" />
+<img src="https://img.shields.io/badge/-SketchUp-333333?logo=sketchup&logoColor=005F9E&style=flat-square" />
+<img src="https://img.shields.io/badge/-Blockchain.com-333333?logo=blockchaindotcom&logoColor=121D33&style=flat-square" />
+<img src="https://img.shields.io/badge/-Hyperledger-333333?logo=hyperledger&logoColor=2F3134&style=flat-square" />
+<img src="https://img.shields.io/badge/-Bitcoin-333333?logo=bitcoin&logoColor=F7931A&style=flat-square" />
+<img src="https://img.shields.io/badge/-Ethereum-333333?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
+<img src="https://img.shields.io/badge/-Tether-333333?logo=tether&logoColor=50AF95&style=flat-square" />
+<img src="https://img.shields.io/badge/-Intel-333333?logo=intel&logoColor=0071C5&style=flat-square" />
+<img src="https://img.shields.io/badge/-Instagram-333333?logo=instagram&logoColor=E4405F&style=flat-square" />
+<img src="https://img.shields.io/badge/-Facebook-333333?logo=facebook&logoColor=1877F2&style=flat-square" />
+<img src="https://img.shields.io/badge/-WhatsApp-333333?logo=whatsapp&logoColor=25D366&style=flat-square" />
+<img src="https://img.shields.io/badge/-Telegram-333333?logo=telegram&logoColor=26A5E4&style=flat-square" />
+<img src="https://img.shields.io/badge/-Twitter-333333?logo=twitter&logoColor=1DA1F2&style=flat-square" />
+<img src="https://img.shields.io/badge/-YouTube-333333?logo=youtube&logoColor=FF0000&style=flat-square" />
+<img src="https://img.shields.io/badge/-YouTube%20Music-333333?logo=youtubemusic&logoColor=FF0000&style=flat-square" />
 </div>
 
 <!---
