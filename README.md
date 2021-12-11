@@ -6,8 +6,8 @@
 
 <br></br>
 <div style="display: flex; justify-content: center; align-items:center; flex-direction: row;">
-    <div><img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars" /></div>
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8&layout=compact" /></div>
+    <a><img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars" /></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8&layout=compact" /></a>
 </div>
 <br></br>
 <!--<div>
