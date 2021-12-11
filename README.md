@@ -17,6 +17,7 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jquery.svg" />
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vuedotjs.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flask.svg" />
@@ -24,6 +25,7 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/notepadplusplus.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windowsterminal.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/codepen.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/fontawesome.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />
@@ -39,7 +41,6 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mariadb.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/serverless.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vuedotjs.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wireshark.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windows.svg" />
@@ -92,13 +93,13 @@
 <img src="https://img.shields.io/badge/-phpMyAdmin-333333?logo=phpmyadmin&logoColor=6C78AF&style=flat-square" />
 <img src="https://img.shields.io/badge/-GitHub-333333?logo=github&logoColor=181717&style=flat-square" />
 <img src="https://img.shields.io/badge/-GoDaddy-333333?logo=godaddy&logoColor=1BDBDB&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
-<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
+<img src="https://img.shields.io/badge/-Photoshop-333333?logo=adobephotoshop&logoColor=31A8FF&style=flat-square" />
+<img src="https://img.shields.io/badge/-Kubernetes-333333?logo=kubernetes&logoColor=326CE5&style=flat-square" />
+<img src="https://img.shields.io/badge/-MongoDB-333333?logo=mongodb&logoColor=47A248A&style=flat-square" />
+<img src="https://img.shields.io/badge/-MariaDB-333333?logo=mariadb&logoColor=003545&style=flat-square" />
+<img src="https://img.shields.io/badge/-Serverless-333333?logo=serverless&logoColor=FD5750&style=flat-square" />
+<img src="https://img.shields.io/badge/-Vue.js-333333?logo=vuedotjs&logoColor=4FC08D&style=flat-square" />
+<img src="https://img.shields.io/badge/-Wireshark-333333?logo=wireshark&logoColor=1679A7&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 <img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
