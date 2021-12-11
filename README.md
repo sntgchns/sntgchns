@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-CSS3-61DAFB?logo=css3&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-HTML5-61DAFB?logo=html5&style=flat-square" />
+<img src="https://img.shields.io/badge/-HTML5-333333?logo=html5&style=flat-square" />
 https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat-square
 https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=white&style=flat-square
 https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=white&style=flat-square
