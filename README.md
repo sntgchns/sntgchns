@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Server development, Cloud Services, IaaS, PaaS ...
 - 📫 How to reach me: Good vives ...
 
-<div style="display:flex; justify-content:center;">
+<div style="display: flex; justify-content: center;">
 <a href="https://sntgchns.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&line_height=27" />
 </a>
