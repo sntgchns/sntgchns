@@ -9,8 +9,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8&layout=compact" />
 </div>
-<!--<br></br>
-<div>
+<br></br>
+<!--<div>
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
