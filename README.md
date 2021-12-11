@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Administration, Programming, Virtualization ...
 - 💞️ I’m looking to collaborate on Server development, Cloud Services, IaaS, PaaS ...
 - 📫 How to reach me: Good vives ...
-<hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark)
-
-
 
 <!--<div>
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
