@@ -134,6 +134,8 @@
 <a href="https://twitter.com/santiagochinas"><img src="https://img.shields.io/badge/-Twitter-0d1117?logo=twitter&logoColor=1DA1F2&style=flat-square" /></a>
 <a href=""><img src="https://img.shields.io/badge/-YouTube-0d1117?logo=youtube&logoColor=FF0000&style=flat-square" /></a>
 <a href="https://music.youtube.com/watch?v=U6eFQDaJmnk&list=RDAMVMU6eFQDaJmnk"><img src="https://img.shields.io/badge/-YouTube%20Music-0d1117?logo=youtubemusic&logoColor=FF0000&style=flat-square" /></a>
+<a href=""><img src="https://img.shields.io/badge/-Gmail-0d1117?logo=gmail&logoColor=EA4335&style=flat-square" /></a>
+<a href=""><img src="https://img.shields.io/badge/-Outlook-0d1117?logo=microsoftoutlook&logoColor=0078D4&style=flat-square" /></a>
 </div>
 
 <!---
