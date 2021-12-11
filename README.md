@@ -68,6 +68,7 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
 </div>-->
+<hr>
 <div>
 <img src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" />
 <img src="https://img.shields.io/badge/-CSS3-0d1117?logo=css3&logoColor=1572B6&style=flat-square" />
