@@ -27,16 +27,16 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/85ce6eb93518a6cfd2459c5af92a44ff6e279c0780d57c8cca92816dc550e23e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f73686f702d3333333333333f7374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70"><img src="https://camo.githubusercontent.com/85ce6eb93518a6cfd2459c5af92a44ff6e279c0780d57c8cca92816dc550e23e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f73686f702d3333333333333f7374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70" alt="Photoshop" data-canonical-src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" style="max-width: 100%;"></a>
 </div>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adidas.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/notepadplusplus.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windows.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vscode.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[html5.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />
