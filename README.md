@@ -76,7 +76,13 @@
 <img src="https://img.shields.io/badge/-HTML5-333333?logo=html5&logoColor=E34F26&style=flat-square" />
 <img src="https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode&logoColor=007ACC&style=flat-square" />
 <img src="https://img.shields.io/badge/-NGINX-333333?logo=nginx&logoColor=009639&style=flat-square" />
-<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=61DAFB&style=flat-square" />
+<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
+<img src="https://img.shields.io/badge/-Bootstrap-333333?logo=bootstrap&logoColor=7952B3&style=flat-square" />
+<img src="https://img.shields.io/badge/-jQuery-333333?logo=jquery&logoColor=0769AD&style=flat-square" />
+<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
+<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
+<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
+<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
 
 <!---
 sntgchns/sntgchns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
