@@ -11,7 +11,7 @@
 </div>
 <br></br>
 <div>
-<img height="24" width="24" style="color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
