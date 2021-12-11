@@ -68,7 +68,6 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
 </div>-->
-<h2>Social</h2>
 <div>
 <img src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" />
 <img src="https://img.shields.io/badge/-CSS3-0d1117?logo=css3&logoColor=1572B6&style=flat-square" />
@@ -124,6 +123,7 @@
 <img src="https://img.shields.io/badge/-Ethereum-0d1117?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
 <img src="https://img.shields.io/badge/-Tether-0d1117?logo=tether&logoColor=50AF95&style=flat-square" />
 </div>
+<h2>Social</h2>
 <div>
 <img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" />
 <img src="https://img.shields.io/badge/-Facebook-0d1117?logo=facebook&logoColor=1877F2&style=flat-square" />
