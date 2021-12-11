@@ -70,9 +70,9 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
 </div>
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-CSS3-61DAFB?logo=css3&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
 https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat-square
 https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square
