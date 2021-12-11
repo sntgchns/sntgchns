@@ -10,10 +10,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8&layout=compact" />
 </div>
 <br></br>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-icons-font@v5/font/simple-icons.min.css" type="text/css">
-<link rel="stylesheet" href="https://unpkg.com/simple-icons-font@v5/font/simple-icons.min.css" type="text/css">
 <div>
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /><i class="si si-html5 si--color">HTML5</i>
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
@@ -71,6 +69,20 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
 </div>
+
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat-square
+https://img.shields.io/badge/-Python-61DAFB?logo=python&style=flat-square
+https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&style=flat-square
+https://img.shields.io/badge/-CSS3-61DAFB?logo=css3&style=flat-square
+https://img.shields.io/badge/-HTML5-61DAFB?logo=html5&style=flat-square
+https://img.shields.io/badge/-VSCode-61DAFB?logo=vscode&logoColor=white&style=flat-square
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square
 
 <!---
 sntgchns/sntgchns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
