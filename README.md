@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Server development, Cloud Services, IaaS, PaaS ...
 - 📫 How to reach me: Good vives ...
 <hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars%line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars%line_height=27)(https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntgchns&theme=github_dark&show_icons=true)
 
