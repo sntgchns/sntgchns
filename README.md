@@ -121,7 +121,8 @@
 <img src="https://img.shields.io/badge/-Bitcoin-0d1117?logo=bitcoin&logoColor=F7931A&style=flat-square" />
 <img src="https://img.shields.io/badge/-Ethereum-0d1117?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
 <img src="https://img.shields.io/badge/-Tether-0d1117?logo=tether&logoColor=50AF95&style=flat-square" />
-<img src="https://img.shields.io/badge/-Intel-0d1117?logo=intel&logoColor=0071C5&style=flat-square" />
+</div>
+<div>
 <img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" />
 <img src="https://img.shields.io/badge/-Facebook-0d1117?logo=facebook&logoColor=1877F2&style=flat-square" />
 <img src="https://img.shields.io/badge/-WhatsApp-0d1117?logo=whatsapp&logoColor=25D366&style=flat-square" />
