@@ -9,7 +9,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&line_height=27" />
   </a>
   <a href="https://sntgchns.github.io/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8&layout=compact&line_height=27" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8&layout=compact&line_height=40" />
   </a>
 </div>
 <br></br>
