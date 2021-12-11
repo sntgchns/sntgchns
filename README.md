@@ -70,7 +70,7 @@
 </div>-->
 <hr>
 <div>
-<img height="36" src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" />
+<img height="28" src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" />
 <img src="https://img.shields.io/badge/-CSS3-0d1117?logo=css3&logoColor=1572B6&style=flat-square" />
 <img src="https://img.shields.io/badge/-JavaScript-0d1117?logo=javascript&logoColor=F7DF1E&style=flat-square" />
 <img src="https://img.shields.io/badge/-NodeJS-0d1117?logo=nodedotjs&logoColor=339933&style=flat-square" />
