@@ -80,9 +80,9 @@
 <img src="https://img.shields.io/badge/-Bootstrap-333333?logo=bootstrap&logoColor=7952B3&style=flat-square" />
 <img src="https://img.shields.io/badge/-jQuery-333333?logo=jquery&logoColor=0769AD&style=flat-square" />
 <img src="https://img.shields.io/badge/-Flask-333333?logo=flask&logoColor=000000&style=flat-square" />
-<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
-<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
-<img src="https://img.shields.io/badge/-NodeJS-333333?logo=nodedotjs&logoColor=339933&style=flat-square" />
+<img src="https://img.shields.io/badge/-PHP-333333?logo=php&logoColor=777BB4&style=flat-square" />
+<img src="https://img.shields.io/badge/-C++-333333?logo=cplusplus&logoColor=00599C&style=flat-square" />
+<img src="https://img.shields.io/badge/-Notepad++-333333?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 
 <!---
 sntgchns/sntgchns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
