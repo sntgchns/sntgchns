@@ -5,7 +5,7 @@
 - 📫 How to reach me: Good vives ...
 
 <br></br>
-<div style="display: flex; justify-content: center; align-items:center;">
+<!--<div style="display: flex; justify-content: center; align-items:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8&layout=compact" />
 </div>
@@ -69,7 +69,7 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
-</div>
+</div>-->
 <div>
 <img src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" />
 <img src="https://img.shields.io/badge/-CSS3-0d1117?logo=css3&logoColor=1572B6&style=flat-square" />
