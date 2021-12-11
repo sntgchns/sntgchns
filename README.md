@@ -28,6 +28,8 @@
                 <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
                 <li><a href="#"><ion-icon name="logo-youtube"></ion-icon></a></li>
             </ul>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 <!---
 sntgchns/sntgchns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
