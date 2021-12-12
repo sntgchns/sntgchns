@@ -45,7 +45,6 @@
 <img height="24" src="https://img.shields.io/badge/-MongoDB-0d1117?logo=mongodb&logoColor=47A248A&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-MariaDB-0d1117?logo=mariadb&logoColor=003545&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/-Serverless-0d1117?logo=serverless&logoColor=FD5750&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stackoverflow&logoColor=F58025&style=flat-square" />
 </div>
 <hr>
@@ -65,9 +64,12 @@
 <img height="24" src="https://img.shields.io/badge/-Wireshark-0d1117?logo=wireshark&logoColor=1679A7&style=flat-square" />
 </div>
 <hr>
-<div><h2>Crypto</h2>
+<div><h2>Disruptive</h2>
 <img height="24" src="https://img.shields.io/badge/-Blockchain.com-0d1117?logo=blockchaindotcom&logoColor=121D33&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Hyperledger-0d1117?logo=hyperledger&logoColor=2F3134&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-IOTA-0d1117?logo=iota&logoColor=131F37&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-TensorFlow-0d1117?logo=tensorflow&logoColor=FF6F00&style=flat-square" />  
+<img height="24" src="https://img.shields.io/badge/-Serverless-0d1117?logo=serverless&logoColor=FD5750&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Bitcoin-0d1117?logo=bitcoin&logoColor=F7931A&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Ethereum-0d1117?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Tether-0d1117?logo=tether&logoColor=50AF95&style=flat-square" />
