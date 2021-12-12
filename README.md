@@ -67,7 +67,7 @@
 <div><h2>Disruptive</h2>
 <img height="24" src="https://img.shields.io/badge/-Blockchain.com-0d1117?logo=blockchaindotcom&logoColor=3D89F5&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Hyperledger-0d1117?logo=hyperledger&logoColor=2F3134&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/-IOTA-0d1117?logo=iota&logoColor=131F37&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-IOTA-0d1117?logo=iota&logoColor=F6F8FC&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-TensorFlow-0d1117?logo=tensorflow&logoColor=FF6F00&style=flat-square" />  
 <img height="24" src="https://img.shields.io/badge/-Serverless-0d1117?logo=serverless&logoColor=FD5750&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Bitcoin-0d1117?logo=bitcoin&logoColor=F7931A&style=flat-square" />
