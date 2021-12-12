@@ -27,7 +27,6 @@
 <img height="24" src="https://img.shields.io/badge/-Notepad++-0d1117?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-VSCode-0d1117?logo=visualstudiocode&logoColor=007ACC&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Windows%20Terminal-0d1117?logo=windowsterminal&logoColor=4D4D4D&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/-HyperV-0d1117?logo=microsoft&logoColor=5E5E5E&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-CodePen-0d1117?logo=codepen&logoColor=000000&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-GitHub-0d1117?logo=github&logoColor=181717&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Font%20Awesome-0d1117?logo=fontawesome&logoColor=339AF0&style=flat-square" />
@@ -50,6 +49,7 @@
 <hr>
 <div><h2>Operating Systems & Miscellaneous</h2>
 <img height="24" src="https://img.shields.io/badge/-Windows-0d1117?logo=windows&logoColor=0078D6&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-HyperV-0d1117?logo=microsoft&logoColor=5E5E5E&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Pihole-0d1117?logo=pihole&logoColor=96060C&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Ubuntu-0d1117?logo=ubuntu&logoColor=E95420&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Debian-0d1117?logo=debian&logoColor=A81D33&style=flat-square" />
