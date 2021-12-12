@@ -49,7 +49,7 @@
 <hr>
 <div><h2>Operating Systems & Miscellaneous</h2>
 <img height="24" src="https://img.shields.io/badge/-Windows-0d1117?logo=windows&logoColor=0078D6&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/-HyperV-0d1117?logo=microsoft&logoColor=5E5E5E&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-Hyper--V-0d1117?logo=microsoft&logoColor=5E5E5E&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Pihole-0d1117?logo=pihole&logoColor=96060C&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Ubuntu-0d1117?logo=ubuntu&logoColor=E95420&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Debian-0d1117?logo=debian&logoColor=A81D33&style=flat-square" />
