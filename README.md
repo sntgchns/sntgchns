@@ -8,66 +8,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars&line_height=27" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8" style="height:179px;" />
 </p>
-<!--<div>
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jquery.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vuedotjs.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flask.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/notepadplusplus.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windowsterminal.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/codepen.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/fontawesome.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apache.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nginx.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/openssl.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/phpmyadmin.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/godaddy.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobephotoshop.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kubernetes.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mariadb.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/serverless.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wireshark.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windows.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/pihole.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/debian.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kalilinux.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linux.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/android.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftoffice.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftedge.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/google.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googleanalytics.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googleads.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sketchup.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/blockchaindotcom.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hyperledger.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bitcoin.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ethereum.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tether.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/intel.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/whatsapp.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtubemusic.svg" />
-</div>-->
 <hr>
 <div><h2>Frontend | Backend | Development tools</h2>
 <img height="24" src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" />
@@ -106,7 +46,6 @@
 <img height="24" src="https://img.shields.io/badge/-MariaDB-0d1117?logo=mariadb&logoColor=003545&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Serverless-0d1117?logo=serverless&logoColor=FD5750&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/-Wireshark-0d1117?logo=wireshark&logoColor=1679A7&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stackoverflow&logoColor=F58025&style=flat-square" />
 </div>
 <hr>
@@ -123,6 +62,7 @@
 <img height="24" src="https://img.shields.io/badge/-Google%20Analytics-0d1117?logo=googleanalytics&logoColor=E37400&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20Ads-0d1117?logo=googleads&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20My%20Business-0d1117?logo=googlemybusiness&logoColor=4285F4&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-Wireshark-0d1117?logo=wireshark&logoColor=1679A7&style=flat-square" />
 </div>
 <hr>
 <div><h2>Crypto</h2>
