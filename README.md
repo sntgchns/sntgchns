@@ -76,6 +76,7 @@
 <img height="24" src="https://img.shields.io/badge/-NodeJS-0d1117?logo=nodedotjs&logoColor=339933&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Bootstrap-0d1117?logo=bootstrap&logoColor=7952B3&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-jQuery-0d1117?logo=jquery&logoColor=0769AD&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-AngularJS-0d1117?logo=angularjs&logoColor=E23237&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Vue.js-0d1117?logo=vuedotjs&logoColor=4FC08D&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-ReactJS-0d1117?logo=react&logoColor=61DAFB&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Python-0d1117?logo=python&logoColor=3776AB&style=flat-square" />
