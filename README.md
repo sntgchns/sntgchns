@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8" style="height:179px;" />
 </p>
 <hr>
-<div><h2>Frontend | Backend | Development tools</h2>
+<div><h2>Frontend | <span style="color:#333;">Backend</span> | Development tools</h2>
 <img height="24" src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-CSS3-0d1117?logo=css3&logoColor=1572B6&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-JavaScript-0d1117?logo=javascript&logoColor=F7DF1E&style=flat-square" />
