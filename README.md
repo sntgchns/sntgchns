@@ -6,7 +6,7 @@
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars&line_height=27" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&langs_count=8" style="height:179px;" />
 </p>
 <hr>
 <div><h2>Frontend | Backend | Development tools</h2>
