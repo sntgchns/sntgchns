@@ -36,6 +36,7 @@
 <img height="24" src="https://img.shields.io/badge/-Docker-0d1117?logo=docker&logoColor=2496ED&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Apache-0d1117?logo=apache&logoColor=D22128&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-NGINX-0d1117?logo=nginx&logoColor=009639&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-Heroku-0d1117?logo=heroku&logoColor=430098&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-GoDaddy-0d1117?logo=godaddy&logoColor=1BDBDB&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Let’s%20Encrypt-0d1117?logo=letsencrypt&logoColor=003A70&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-OpenSSL-0d1117?logo=openssl&logoColor=721412&style=flat-square" />
@@ -45,7 +46,6 @@
 <img height="24" src="https://img.shields.io/badge/-MariaDB-0d1117?logo=mariadb&logoColor=003545&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stackoverflow&logoColor=F58025&style=flat-square" />  
-<img height="24" src="https://img.shields.io/badge/-Heroku-0d1117?logo=heroku&logoColor=430098&style=flat-square" />
 </div>
 <hr>
 <div><h2>Operating Systems & Miscellaneous</h2>
