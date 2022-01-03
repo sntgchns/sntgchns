@@ -5,8 +5,8 @@
 - 📫 How to reach me: Good vives ...
 <hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars&line_height=27" style=""max-width: 100% />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&layout=compact" style="max-width:100%;" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sntgchns&show_icons=true&theme=github_dark&hide=stars&line_height=27" style=""max-width: 100% />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&layout=compact" style="max-width:100%;" />
 </p>
 <hr>
 <div><h2>Frontend | Backend | Development tools</h2>
