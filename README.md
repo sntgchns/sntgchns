@@ -6,7 +6,7 @@
 <hr>
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=sntgchns&count_private=true&custom_title=sntgchns%20Github%20Status&show_icons=true&theme=github_dark" style=""max-width: 100% />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&layout=compact" style="max-width:100%;" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&count_private=true&theme=github_dark&layout=compact" style="max-width:100%;" />
 </p>
 <hr>
 <div><h2>Frontend | Backend | Development tools</h2>
