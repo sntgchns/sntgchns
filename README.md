@@ -44,6 +44,7 @@
 <img height="24" src="https://img.shields.io/badge/-phpMyAdmin-0d1117?logo=phpmyadmin&logoColor=6C78AF&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-MongoDB-0d1117?logo=mongodb&logoColor=47A248A&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-MariaDB-0d1117?logo=mariadb&logoColor=003545&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-json-0d1117?logo=json&logoColor=000000&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stackoverflow&logoColor=F58025&style=flat-square" />  
 </div>
