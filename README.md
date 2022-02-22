@@ -22,6 +22,7 @@
 <img height="24" src="https://img.shields.io/badge/-Vue.js-0d1117?logo=vuedotjs&logoColor=4FC08D&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Python-0d1117?logo=python&logoColor=3776AB&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Flask-0d1117?logo=flask&logoColor=000000&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-Django-0d1117?logo=django&logoColor=092E20&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-PHP-0d1117?logo=php&logoColor=777BB4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-C++-0d1117?logo=cplusplus&logoColor=00599C&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Notepad++-0d1117?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
