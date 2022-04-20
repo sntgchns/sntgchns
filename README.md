@@ -64,6 +64,7 @@
 <img height="24" src="https://img.shields.io/badge/-Android-0d1117?logo=android&logoColor=3DDC84&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Microsoft%20Office-0d1117?logo=microsoftoffice&logoColor=D83B01&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google-0d1117?logo=google&logoColor=4285F4&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-Google%20Cloud-0d1117?logo=googlecloud&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20Analytics-0d1117?logo=googleanalytics&logoColor=E37400&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20Ads-0d1117?logo=googleads&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20My%20Business-0d1117?logo=googlemybusiness&logoColor=4285F4&style=flat-square" />
