@@ -24,6 +24,7 @@
 <img height="24" src="https://img.shields.io/badge/-Python-0d1117?logo=python&logoColor=3776AB&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Flask-0d1117?logo=flask&logoColor=000000&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Django-0d1117?logo=django&logoColor=092E20&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-Anaconda-0d1117?logo=anaconda&logoColor=44A833&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-PHP-0d1117?logo=php&logoColor=777BB4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-C++-0d1117?logo=cplusplus&logoColor=00599C&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Notepad++-0d1117?logo=notepadplusplus&logoColor=90E59A&style=flat-square" />
@@ -51,6 +52,8 @@
 <img height="24" src="https://img.shields.io/badge/-Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stackoverflow&logoColor=F58025&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-edX-0d1117?logo=edx&logoColor=02262B&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-Google%20Cloud-0d1117?logo=googlecloud&logoColor=4285F4&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-AWS-0d1117?logo=amazonaws&logoColor=232F3E&style=flat-square" />
 </div>
 <hr>
 <div><h2>Operating Systems & Miscellaneous</h2>
@@ -64,7 +67,6 @@
 <img height="24" src="https://img.shields.io/badge/-Android-0d1117?logo=android&logoColor=3DDC84&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Microsoft%20Office-0d1117?logo=microsoftoffice&logoColor=D83B01&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google-0d1117?logo=google&logoColor=4285F4&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/-Google%20Cloud-0d1117?logo=googlecloud&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20Analytics-0d1117?logo=googleanalytics&logoColor=E37400&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20Ads-0d1117?logo=googleads&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20My%20Business-0d1117?logo=googlemybusiness&logoColor=4285F4&style=flat-square" />
