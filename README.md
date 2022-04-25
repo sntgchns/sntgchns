@@ -81,7 +81,7 @@
 <img height="24" src="https://img.shields.io/badge/-Bitcoin-0d1117?logo=bitcoin&logoColor=F7931A&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Ethereum-0d1117?logo=ethereum&logoColor=3C3C3D&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Tether-0d1117?logo=tether&logoColor=50AF95&style=flat-square" />
-<img height="24" src="https://v2.woonkly.com/favicon.ico" /><h7 style="display:flex; align-items:center;">WOOP</h7>
+<img height="24" src="https://v2.woonkly.com/favicon.ico" /><h7 style="padding:0, margin:0;">WOOP</h7>
 </div>
 <hr>
 <h2>Social</h2>
