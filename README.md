@@ -49,6 +49,7 @@
 <img height="24" src="https://img.shields.io/badge/-MongoDB-0d1117?logo=mongodb&logoColor=47A248A&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-MariaDB-0d1117?logo=mariadb&logoColor=003545&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-JSON-0d1117?logo=json&logoColor=000000&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-GraphQL-0d1117?logo=graphql&logoColor=E10098&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Heroku-0d1117?logo=heroku&logoColor=430098&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Helm-0d1117?logo=helm&logoColor=0F1689&style=flat-square" />
