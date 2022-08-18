@@ -51,6 +51,7 @@
 <img height="24" src="https://img.shields.io/badge/-JSON-0d1117?logo=json&logoColor=000000&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Heroku-0d1117?logo=heroku&logoColor=430098&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-Helm-0d1117?logo=helm&logoColor=0F1689&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stackoverflow&logoColor=F58025&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20Cloud-0d1117?logo=googlecloud&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-AWS-0d1117?logo=amazonaws&logoColor=232F3E&style=flat-square" />
