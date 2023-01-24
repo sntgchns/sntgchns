@@ -15,6 +15,7 @@
 <img height="24" src="https://img.shields.io/badge/-JavaScript-0d1117?logo=javascript&logoColor=F7DF1E&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-TypeScript-0d1117?logo=typescript&logoColor=3178C6&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-NodeJS-0d1117?logo=nodedotjs&logoColor=339933&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-NPM-0d1117?logo=npm&logoColor=CB3837&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-ReactJS-0d1117?logo=react&logoColor=61DAFB&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-AngularJS-0d1117?logo=angularjs&logoColor=E23237&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Material%20Design-0d1117?logo=materialdesign&logoColor=757575&style=flat-square" />
