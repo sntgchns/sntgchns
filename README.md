@@ -58,7 +58,7 @@
 <img height="24" src="https://img.shields.io/badge/-Ngrok-0d1117?logo=ngrok&logoColor=1F1E37&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stackoverflow&logoColor=F58025&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20Cloud-0d1117?logo=googlecloud&logoColor=4285F4&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/-AWS-0d1117?logo=amazonaws&logoColor=232F3E&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/-AWS-0d1117?logo=amazonwebservices&logoColor=232F3E&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Cloudflare-0d1117?logo=cloudflare&logoColor=F38020&style=flat-square" />
 </div>
 <hr>
