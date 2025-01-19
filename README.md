@@ -7,11 +7,11 @@
 <p align="center">
   <picture>
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=sntgchns&count_private=true&custom_title=sntgchns%20GitHub%20Stats&locale=en&hide_rank=false&show=discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&theme=github_dark}"
+    srcset="[https://github-readme-stats.vercel.app/api?username=sntgchns&count_private=true&custom_title=sntgchns%20GitHub%20Stats&locale=en&hide_rank=false&show=discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true}"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=sntgchns&count_private=true&custom_title=sntgchns%20GitHub%20Stats&locale=en&hide_rank=false&show=discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&theme=github_light]"
+    srcset="[https://github-readme-stats.vercel.app/api?username=sntgchns&count_private=true&custom_title=sntgchns%20GitHub%20Stats&locale=en&hide_rank=false&show=discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true]"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="[https://github-readme-stats.vercel.app/api?username=sntgchns&count_private=true&custom_title=sntgchns%20GitHub%20Stats&locale=en&hide_rank=false&show=discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true" />
