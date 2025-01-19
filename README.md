@@ -5,7 +5,7 @@
 - 📫 How to reach me: Good vives ...
 <hr>
 <p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api" style="max-width: 100%" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sntgchns&count_private=true&custom_title=sntgchns%20GitHub%20Stats&locale=en&hide_rank=false&show=discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&theme=github_dark" style="max-width: 100%" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&layout=compact&count_private=true&langs_count=12" style="max-width: 100%" />
 </p>
 <hr>
