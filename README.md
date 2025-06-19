@@ -8,7 +8,7 @@
 <!-- update stats 
   curl -X PURGE https://camo.githubusercontent.com/149e45353035d561cab277e62a289488fac9bafeb9659fabe5c171e23d47c7b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d736e746763686e7326636f756e745f707269766174653d7472756526637573746f6d5f7469746c653d736e746763686e732532304769744875622532305374617473266c6f63616c653d656e26686964655f72616e6b3d66616c73652673686f773d64697363757373696f6e735f737461727465642c7072735f6d65726765642c7072735f6d65726765645f70657263656e7461676526696e636c7564655f616c6c5f636f6d6d6974733d747275652673686f775f69636f6e733d74727565267468656d653d6769746875625f6461726b
   -->
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sntgchns&count_private=true&custom_title=sntgchns%20GitHub%20Stats&locale=en&hide_rank=false&show=discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&theme=github_dark" style="max-width: 100%" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sntgchns&custom_title=sntgchns%20GitHub%20Stats&locale=en&hide_rank=false&show=discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true&show_icons=true&theme=github_dark" style="max-width: 100%" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntgchns&theme=github_dark&layout=compact&count_private=true&langs_count=12" style="max-width: 100%" />
 </p>
 <hr>
