@@ -84,7 +84,11 @@
 <img height="24" src="https://img.shields.io/badge/-Google%20Ads-0d1117?logo=googleads&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Google%20My%20Business-0d1117?logo=googlemybusiness&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Wireshark-0d1117?logo=wireshark&logoColor=1679A7&style=flat-square" />
+</div>
+<hr>
+<div><h2>Education</h2>
 <img height="24" src="https://img.shields.io/badge/-edX-0d1117?logo=edx&logoColor=02262B&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Kaggle-0d1117?logo=kaggle&logoColor=20BEFF&style=flat-square" />
 </div>
 <hr>
 <div><h2>Disruptive</h2>
