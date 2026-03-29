@@ -43,6 +43,7 @@
 <img height="24" src="https://img.shields.io/badge/-SketchUp-0d1117?logo=sketchup&logoColor=005F9E&style=flat-square" />
 <img height="24" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-0d1117?logo=edge-white&logoColor=2771D8&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Docker-0d1117?logo=docker&logoColor=2496ED&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Kubernetes-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Apache-0d1117?logo=apache&logoColor=D22128&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-NGINX-0d1117?logo=nginx&logoColor=009639&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-GoDaddy-0d1117?logo=godaddy&logoColor=1BDBDB&style=flat-square" />
