@@ -129,6 +129,7 @@
 <img height="24" src="https://img.shields.io/badge/Ollama-0d1117?logo=ollama&logoColor=fff&style=flat-square" />
 <img height="24" src="https://custom-icon-badges.demolab.com/badge/Deepseek-0d1117?logo=deepseek&logoColor=4D6BFF&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/Mistral%20AI-0d1117?logo=mistral-ai&logoColor=FA520F&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Markdown-%230d1117.svg?logo=markdown&logoColor=white&style=flat-square" />
 </div>
 <hr>
 <h2>Social</h2>
