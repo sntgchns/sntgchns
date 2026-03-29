@@ -111,6 +111,10 @@
 <img height="24" src="https://img.shields.io/badge/-Binance-0d1117?logo=binance&logoColor=F0B90B&style=flat-square" />
 </div>
 <hr>
+<div><h2>Artificial Intelligence</h2>
+<img height="24" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
+</div>
+<hr>
 <h2>Social</h2>
 <div>
 <a href="https://www.instagram.com/santiagochinas/"><img src="https://img.shields.io/badge/-Instagram-0d1117?logo=instagram&logoColor=E4405F&style=flat-square" /></a>
