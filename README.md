@@ -112,10 +112,11 @@
 </div>
 <hr>
 <div><h2>Artificial Intelligence</h2>
-<img height="24" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-0d1117?logo=openai&logoColor=white&style=flat-square" />
+<img height="24" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-0d1117?logo=openai&logoColor=74aa9c&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/GitHub%20Copilot-0d1117?logo=githubcopilot&logoColor=fff&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/Hugging%20Face-0d1117?logo=huggingface&logoColor=000&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/Google%20Gemini-0d1117?logo=googlegemini&logoColor=fff&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Hugging%20Face-0d1117?logo=huggingface&logoColor=FFD21E&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Google%20Gemini-0d1117?logo=googlegemini&logoColor=886FBF&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Ollama-0d1117?logo=ollama&logoColor=fff&style=flat-square" />
 </div>
 <hr>
 <h2>Social</h2>
