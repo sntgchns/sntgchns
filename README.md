@@ -90,8 +90,8 @@
 <img height="24" src="https://img.shields.io/badge/-edX-0d1117?logo=edx&logoColor=02262B&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/Kaggle-0d1117?logo=kaggle&logoColor=20BEFF&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/W3Schools-0d1117?logo=w3schools&logoColor=04AA6D&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/MDN%20Web%20Docs-0d1117?logo=mdnwebdocs&logoColor=000&style=flat-square" />
-<img height="24" src="https://img.shields.io/badge/freeCodeCamp-0d1117?logo=freecodecamp&logoColor=0A0A23&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/MDN%20Web%20Docs-0d1117?logo=mdnwebdocs&logoColor=fff&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/freeCodeCamp-0d1117?logo=freecodecamp&logoColor=fff&style=flat-square" />
 </div>
 <hr>
 <div><h2>Disruptive</h2>
