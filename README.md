@@ -64,6 +64,8 @@
 <img height="24" src="https://img.shields.io/badge/-Google%20Cloud-0d1117?logo=googlecloud&logoColor=4285F4&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-AWS-0d1117?logo=amazonwebservices&logoColor=232F3E&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/-Cloudflare-0d1117?logo=cloudflare&logoColor=F38020&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Postman-0d1117?logo=postman&logoColor=FF6C37&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Swagger-0d1117?logo=swagger&logoColor=85EA2D&style=flat-square" />
 </div>
 <hr>
 <div><h2>Operating Systems & Miscellaneous</h2>
@@ -117,6 +119,8 @@
 <img height="24" src="https://img.shields.io/badge/Hugging%20Face-0d1117?logo=huggingface&logoColor=FFD21E&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/Google%20Gemini-0d1117?logo=googlegemini&logoColor=886FBF&style=flat-square" />
 <img height="24" src="https://img.shields.io/badge/Ollama-0d1117?logo=ollama&logoColor=fff&style=flat-square" />
+<img height="24" src="https://custom-icon-badges.demolab.com/badge/Deepseek-0d1117?logo=deepseek&logoColor=4D6BFF&style=flat-square" />
+<img height="24" src="https://img.shields.io/badge/Mistral%20AI-0d1117?logo=mistral-ai&logoColor=FA520F&style=flat-square" />
 </div>
 <hr>
 <h2>Social</h2>
